@@ -1,0 +1,12 @@
+# Git -> Sistema de versionado de código
+
+# 4 áreas
+
+  1. Workspace: Espacio de trabajo actual
+  2. Staging area: Espacio donde preparamos los datos para guardarlos 
+  3. Local repo: Repositorio local, es decir, donde se guarda la versión final del código (local)
+  4. Nube: Puede ser cualquier host, en este caso Github
+
+# Creando un repo
+
+git init
