@@ -10,3 +10,17 @@
 # Creando un repo
 
 git init
+
+# Linkeando un repositorio remoto
+
+git remote add origin <url>
+
+# Branches
+
+Las branches son "ramas" por las que se bifurca nuestro código
+
+Crear una nueva branch -> Bifurcar el código
+
+
+
+
